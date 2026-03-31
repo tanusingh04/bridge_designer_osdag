@@ -1,18 +1,18 @@
-# structura: Advanced Bridge Deck Designer
+# Structura: Advanced Bridge Deck Designer
 
 [![Firebase Deployment](https://img.shields.io/badge/Deployed-Firebase-orange?logo=firebase)](https://structura-osdag-2026.web.app)
 [![Tech Stack](https://img.shields.io/badge/Tech_Stack-React_%7C_Vite_%7C_Tailwind-blue?logo=react)](https://react.dev)
 
-## 🏗 Project Overview
+##  Project Overview
 **structura** is a high-fidelity, professional bridge design and analysis platform developed for **Osdag**. It transforms complex engineering parameters into reactive, real-time visual diagrams (Cross-Sections and Plan Views) following strict IRC (Indian Roads Congress) standards.
 
 The application is designed to provide structural engineers with an intuitive, spreadsheet-free workflow for bridge superstructure geometry validation and expert parameter adjustment.
 
 ---
 
-## 🔗 Live Demo
+##  Live Demo
 Visit the live application here:
-### [**🚀 Launch structura Project**](https://structura-osdag-2026.web.app)
+### [** Launch structura Project**](https://structura-osdag-2026.web.app)
 
 ---
 
@@ -28,7 +28,7 @@ The 'Plan View' visualizes the orientation of the bridge deck, tilting in real-t
 
 ---
 
-## 🛠 Tech Stack
+##  Tech Stack
 
 ### Frontend
 - **Framework**: [React](https://reactjs.org/) (TypeScript)
@@ -47,7 +47,7 @@ The 'Plan View' visualizes the orientation of the bridge deck, tilting in real-t
 
 ---
 
-## 📐 Architecture
+##  Architecture
 
 ### 1. Centralized State Manager (`Index.tsx`)
 The application uses **Lifted State** to maintain a single source of truth for all bridge parameters (Span, Width, Skew, etc.). This ensures that all visual drawings and summary data remain perfectly synchronized in real-time.
@@ -65,7 +65,7 @@ All backend API endpoints and sensitive configurations are managed via a robust 
 
 ---
 
-## 🚀 Getting Started
+##  Getting Started
 
 ### Prerequisites
 - Node.js (v18+)
@@ -96,7 +96,7 @@ All backend API endpoints and sensitive configurations are managed via a robust 
 
 ---
 
-## 📦 Deployment
+##  Deployment
 The project is configured for one-click deployment to Firebase:
 ```bash
 npm run build
