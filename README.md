@@ -12,11 +12,11 @@ The application is designed to provide structural engineers with an intuitive, s
 
 ##  Live Demo
 Visit the live application here:
-### [** DEPLOYED LINK**](https://structura-osdag-2026.web.app)
+### [** 🔗Structure **](https://structura-osdag-2026.web.app)
 
 ---
 
-## 📊 Project Visuals
+##  Project Visuals
 
 ### 1. Composite Bridge Cross-Section
 The 'Cross Section' view provides a detailed engineering drawing of the girders, deck, and footpaths, reactive to your width and spacing inputs.
