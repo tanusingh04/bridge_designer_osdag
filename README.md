@@ -10,6 +10,24 @@ The application is designed to provide structural engineers with an intuitive, s
 
 ---
 
+## 🔗 Live Demo
+Visit the live application here:
+### [**🚀 Launch structura Project**](https://structura-osdag-2026.web.app)
+
+---
+
+## 📊 Project Visuals
+
+### 1. Composite Bridge Cross-Section
+The 'Cross Section' view provides a detailed engineering drawing of the girders, deck, and footpaths, reactive to your width and spacing inputs.
+![Cross Section View](public/images/cross_section.png)
+
+### 2. Bridge Deck Plan View (Skewed)
+The 'Plan View' visualizes the orientation of the bridge deck, tilting in real-time based on the Skew Angle ($ -45^\circ $ to $ +45^\circ $).
+![Plan View Diagram](public/images/plan_view.png)
+
+---
+
 ## 🛠 Tech Stack
 
 ### Frontend
